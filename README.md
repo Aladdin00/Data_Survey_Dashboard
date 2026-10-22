@@ -9,7 +9,7 @@
 ![DAX](https://img.shields.io/badge/DAX-Calculated%20Columns-blue)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen)
 
-![Dashboard preview]<img width="895" height="424" alt="Power BI DashBoard" src="https://github.com/user-attachments/assets/401215db-b94e-4fe0-8667-abcd92ee8db4" />
+Dashboard preview <img width="895" height="424" alt="Power BI DashBoard" src="https://github.com/user-attachments/assets/401215db-b94e-4fe0-8667-abcd92ee8db4" />
 
 </div>
 
